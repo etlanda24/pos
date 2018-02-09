@@ -1,19 +1,4 @@
-# Project Point Of Sales
 
-# Transaksi - Operator Outlet
-![alt text](https://raw.githubusercontent.com/etlanda24/pos/master/pos1.png)
-
-# List Barang - Operator Outlet
-![alt text](https://raw.githubusercontent.com/etlanda24/pos/master/pos2.png)
-
-# List Outlet - Admin 
-![alt text](https://raw.githubusercontent.com/etlanda24/pos/master/pos3.png)
-
-# List Barang - Admin
-![alt text](https://raw.githubusercontent.com/etlanda24/pos/master/pos4.png)
-
-# List Transaksi - Admin
-![alt text](https://raw.githubusercontent.com/etlanda24/pos/master/pos5.png)
 
 
 
